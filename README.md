@@ -5,7 +5,7 @@ INSTALLATION:
 ============
 
 1. Drag and drop the "aig-aitraffic-oci-beta" file to your community folder.
-2. Put your VMR file anywhere. (But make sure not to delete this because it will lead to issues)
+2. Put your "aig.vmr" file anywhere. (But make sure not to delete this because it will lead to issues)
 
 Your all done!
 
