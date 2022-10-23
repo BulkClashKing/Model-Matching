@@ -1,16 +1,28 @@
 # Model-Matching
 Model Matching for Microsoft Flight Simulator
 
-=================================================
+INSTALLATION:
+============
 
-THIS FILE IS NOT CREATED BY ME OR ANYONE IN THE
-ELVATEX TEAM. THIS IS ALL CREATE BY ALPHA INDIA
-GROUP. IF YOU HAVE ANY ISSUES WITH THIS FILE MESSAGE
-ME ON DISCORD. ANY BUGS WITH THE MODELS DO NOT REPORT
-TO ME, REPORT TO AIG.
+1. Drag and drop the "aig-aitraffic-oci-beta" file to your community folder.
+2. Put your VMR file anywhere. (But make sure not to delete this because it will lead to issues)
 
-=================================================
+Your all done!
 
-A.I.G Website:
+Enjoy your model matching!!! :)
+
+
+
+
+OTHER INFORMATION:
+==================
+
+THIS FILE IS NOT CREATE BY ANYONE FROM THE ELVATEX TEAM OR ME. THIS FILE WAS CREATED
+BY A.I.G. ANY ISSUES WITH MODELS REPORT THIS TO THEM AND NOT ME OR ANYONE FROM ELEVATEX.
+
+
+
+A.I.G WEBISTE
+=============
 
 http://www.alpha-india.net/
